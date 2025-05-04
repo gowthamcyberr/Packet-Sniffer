@@ -48,20 +48,4 @@ Network Interfaces: Ethernet or Wi-Fi interfaces for live packet capture.
 
 Logging Tools: To store and review packet data for further analysis.
 
-Steps:
 
-Note: Replace placeholder references with actual Imgur links or drag-and-drop screenshots in your GitHub Pages setup. Ensure each screenshot includes descriptive text.
-
-Ref 1: Packet Sniffer Setup
-
-Description: This screenshot shows the initial setup of the packet sniffer tool, including the selection of the network interface for capturing packets and the configuration of filters (e.g., capturing only TCP packets).
-
-
-Ref 2: Captured Packet Output
-
-Description: This screenshot displays the output of the packet sniffer, showcasing parsed packet details such as source/destination IP addresses, ports, and protocol types.
-
-
-Ref 3: Wireshark Validation
-
-Description: This screenshot illustrates the use of Wireshark to validate the packets captured by the sniffer, ensuring accuracy in the captured data compared to a standard network analysis tool.
